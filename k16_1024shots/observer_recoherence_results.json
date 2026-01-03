@@ -1,0 +1,66 @@
+{
+  "ideal_sim": {
+    "0": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 1.0
+    },
+    "1": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "2": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "4": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "8": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "16": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    }
+  },
+  "hardware": {
+    "0": {
+      "A_baseline": 0.99609375,
+      "B_recohere": 1.0,
+      "C_mid_measure": 1.0
+    },
+    "1": {
+      "A_baseline": 0.998046875,
+      "B_recohere": 0.998046875,
+      "C_mid_measure": -0.0234375
+    },
+    "2": {
+      "A_baseline": 1.0,
+      "B_recohere": 0.99609375,
+      "C_mid_measure": 0.009765625
+    },
+    "4": {
+      "A_baseline": 0.998046875,
+      "B_recohere": 0.984375,
+      "C_mid_measure": 0.01171875
+    },
+    "8": {
+      "A_baseline": 1.0,
+      "B_recohere": 0.7734375,
+      "C_mid_measure": 0.041015625
+    },
+    "16": {
+      "A_baseline": 0.998046875,
+      "B_recohere": -0.001953125,
+      "C_mid_measure": 0.00390625
+    }
+  }
+}

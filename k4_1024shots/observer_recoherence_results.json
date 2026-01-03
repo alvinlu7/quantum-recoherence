@@ -1,0 +1,56 @@
+{
+  "ideal_sim": {
+    "0": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 1.0
+    },
+    "1": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "2": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "3": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    },
+    "4": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.046875
+    }
+  },
+  "hardware": {
+    "0": {
+      "A_baseline": 0.99609375,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.994140625
+    },
+    "1": {
+      "A_baseline": 0.998046875,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.060546875
+    },
+    "2": {
+      "A_baseline": 1.0,
+      "B_recohere": 0.99609375,
+      "C_mid_measure": 0.0
+    },
+    "3": {
+      "A_baseline": 1.0,
+      "B_recohere": 1.0,
+      "C_mid_measure": 0.02734375
+    },
+    "4": {
+      "A_baseline": 0.99609375,
+      "B_recohere": 0.994140625,
+      "C_mid_measure": -0.005859375
+    }
+  }
+}
